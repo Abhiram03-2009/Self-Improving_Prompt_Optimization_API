@@ -1,5 +1,5 @@
 
-# PromptWizard
+# Self-Improving_Prompt_Optimization_API
 
 > **Task-Aware Prompt Optimization Framework**<br>
 
