@@ -1,3 +1,5 @@
+> **Attribution:** This repository is a copy of [PromptWizard](https://github.com/microsoft/PromptWizard) by Microsoft Corporation, uploaded for personal study and experimentation. It is not my original work. The original is released under the MIT License; the license file is included in [LICENSE](LICENSE).
+
 
 # Self-Improving_Prompt_Optimization_API
 
@@ -46,4 +48,4 @@ personas, enhancing both model performance and interpretability.
 - ```seen_set_size```: Number of samples from trainset to be used for training
 - ```few_shot_count```: Number of in-context examples required in final prompt
 
-<h3><b>Made by Abhiram Kaakarla</b></h3>
+<h3><b>Copied for study by Abhiram Kaakarla; original by Microsoft Corporation</b></h3>
